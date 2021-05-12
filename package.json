@@ -11,5 +11,14 @@
   "dependencies": {
     "chalk": "^4.1.1",
     "discord.js": "^12.5.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michelle-Cortez/chalknBots.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Michelle-Cortez/chalknBots/issues"
+  },
+  "homepage": "https://github.com/Michelle-Cortez/chalknBots#readme"
 }
